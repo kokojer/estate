@@ -5,6 +5,7 @@
 	<meta charset="UTF-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<link rel="stylesheet" href="css/loading-attribute-polyfill.css" />
 	<link rel="stylesheet" href="https://unpkg.com/swiper@7/swiper-bundle.min.css" />
 	<link rel="stylesheet" rel="preload" href="css/style.min.css" as="style">
 	<title>Недвижимость</title>
@@ -411,7 +412,13 @@
 				<a href="" class="boss__button question">Задать вопрос</a>
 			</div>
 			<div class="boss__img">
-				<picture><source srcset="img/muzic.webp" type="image/webp" loading="lazy"><img src="img/muzic.png" alt=""></picture>
+				<noscript class="loading-lazy">
+					<picture>
+						<source srcset="img/muzic.webp" />
+						<img src="simpleimage.jpg" loading="lazy" alt=".."/>
+					</picture>
+				</noscript>
+				<!-- <picture><source srcset="img/muzic.webp" type="image/webp" loading="lazy"><img src="img/muzic.png" alt=""></picture> -->
 			</div>
 		</div>
 	</div>
@@ -444,6 +451,7 @@
 	</div>
 </footer>
 	</div>
+	<script src="js/loading-attribute-polyfill.umd.js" async></script>
 	<script defer src="https://unpkg.com/swiper@7/swiper-bundle.min.js"></script>
 	<script defer src="js/script.min.js"></script>
 </body>
