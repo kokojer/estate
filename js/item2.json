@@ -1,0 +1,92 @@
+[
+    {
+        "img": "img/r1.png",
+        "title": "Апартаменты в «башне ОКО»",
+        "lot": "4536",
+        "price": "25 600 000",
+        "square": "70",
+        "floor": "52",
+        "href":"https://learn.javascript.ru/fetch"
+    },
+    {
+        "img": "img/r2.png",
+        "title": "Апартаменты в «башне Империя»",
+        "lot": "4537",
+        "price": "27 900 000",
+        "square": "62",
+        "floor": "35",
+        "href":"https://learn.javascript.ru/fetch"
+    },
+    {
+        "img": "img/r3.png",
+        "title": "Апартаменты в «Neva Towers»",
+        "lot": "4538",
+        "price": "19 000 000",
+        "square": "40",
+        "floor": "16",
+        "href":"https://learn.javascript.ru/fetch"
+    },
+    {
+        "img": "img/r4.png",
+        "title": "Апартаменты в комплексе «Федерация»",
+        "lot": "4539",
+        "price": "59 500 000",
+        "square": "110",
+        "floor": "84",
+        "href":"https://learn.javascript.ru/fetch"
+    },
+    {
+        "img": "img/r5.png",
+        "title": "Апартаменты в «башне ОКО»",
+        "lot": "4540",
+        "price": "34 900 000",
+        "square": "88",
+        "floor": "29",
+        "href":"https://learn.javascript.ru/fetch"
+    },
+    {
+        "img": "img/r6.png",
+        "title": "Апартаменты в «Город столиц»",
+        "lot": "4541",
+        "price": "28 400 000",
+        "square": "57",
+        "floor": "48",
+        "href":"https://learn.javascript.ru/fetch"
+    },
+    {
+        "img": "img/r7.png",
+        "title": "Апартаменты в «башне ОКО»",
+        "lot": "4542",
+        "price": "38 200 000",
+        "square": "69",
+        "floor": "58",
+        "href":"https://learn.javascript.ru/fetch"
+    },
+    {
+        "img": "img/r8.png",
+        "title": "Апартаменты в «башне Империя»",
+        "lot": "4543",
+        "price": "41 000 000",
+        "square": "74",
+        "floor": "41",
+        "href":"https://learn.javascript.ru/fetch"
+    },
+    {
+        "img": "img/r9.png",
+        "title": "Апартаменты в «Город столиц»",
+        "lot": "4544",
+        "price": "53 200 000",
+        "square": "94",
+        "floor": "59",
+        "href":"https://learn.javascript.ru/fetch"
+    },
+    {
+        "img": "img/r10.png",
+        "title": "Апартаменты в «Neva Towers»",
+        "lot": "4545",
+        "price": "89 900 000",
+        "square": "140",
+        "floor": "61",
+        "href":"https://learn.javascript.ru/fetch"
+    }
+]

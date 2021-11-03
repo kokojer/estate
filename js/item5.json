@@ -1,0 +1,92 @@
+[
+	{
+		"img": "img/r1.png",
+		"title": "Апартаменты в «башне ОКО»",
+		"lot": "4536",
+		"price": "25 600 000",
+		"square": "70",
+		"floor": "52",
+		"href": "https://learn.javascript.ru/fetch"
+	},
+	{
+		"img": "img/r2.png",
+		"title": "Апартаменты в «башне Империя»",
+		"lot": "4537",
+		"price": "27 900 000",
+		"square": "62",
+		"floor": "35",
+		"href": "https://learn.javascript.ru/fetch"
+	},
+	{
+		"img": "img/r3.png",
+		"title": "Апартаменты в «Neva Towers»",
+		"lot": "4538",
+		"price": "19 000 000",
+		"square": "40",
+		"floor": "16",
+		"href": "https://learn.javascript.ru/fetch"
+	},
+	{
+		"img": "img/r4.png",
+		"title": "Апартаменты в комплексе «Федерация»",
+		"lot": "4539",
+		"price": "59 500 000",
+		"square": "110",
+		"floor": "84",
+		"href": "https://learn.javascript.ru/fetch"
+	},
+	{
+		"img": "img/r15.jpg",
+		"title": "Апартаменты ГДЕ-ТО",
+		"lot": "2355",
+		"price": "101 000 000",
+		"square": "130",
+		"floor": "2",
+		"href": "https://learn.javascript.ru/fetch"
+	},
+	{
+		"img": "img/r14.jpg",
+		"title": "Апартаменты ГДЕ-ТО",
+		"lot": "2536",
+		"price": "700 000 000",
+		"square": "500",
+		"floor": "30",
+		"href": "https://learn.javascript.ru/fetch"
+	},
+	{
+		"img": "img/r12.jpg",
+		"title": "Апартаменты ГДЕ-ТО",
+		"lot": "4598",
+		"price": "124 410 000",
+		"square": "150",
+		"floor": "100",
+		"href": "https://learn.javascript.ru/fetch"
+	},
+	{
+		"img": "img/r13.jpg",
+		"title": "Апартаменты ГДЕ-ТО",
+		"lot": "5643",
+		"price": "300 000 000",
+		"square": "250",
+		"floor": "4",
+		"href": "https://learn.javascript.ru/fetch"
+	},
+	{
+		"img": "img/r2.png",
+		"title": "Апартаменты в «башне Империя»",
+		"lot": "4537",
+		"price": "27 900 000",
+		"square": "62",
+		"floor": "35",
+		"href": "https://learn.javascript.ru/fetch"
+	},
+	{
+		"img": "img/r3.png",
+		"title": "Апартаменты в «Neva Towers»",
+		"lot": "4538",
+		"price": "19 000 000",
+		"square": "40",
+		"floor": "16",
+		"href": "https://learn.javascript.ru/fetch"
+	}
+]
