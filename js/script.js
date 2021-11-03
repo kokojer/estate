@@ -317,7 +317,7 @@ function nextSlide(path) {
 			}, 300);
 		}).then(() => {
 			return new Promise((resolve, reject) => {
-				$('.questions__main').load(`../${path}.html`, function () {
+				$('.questions__main').load(`./${path}.html`, function () {
 					resolve()
 				})
 			})
